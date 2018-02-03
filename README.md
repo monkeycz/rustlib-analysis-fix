@@ -1,6 +1,6 @@
 # rustlib-analysis-fix
 
-Try to reslove this [issue](https://github.com/rust-lang-nursery/rls/issues/227) temporary.
+Try to resolve this [issue](https://github.com/rust-lang-nursery/rls/issues/227) temporary.
 
 ## Installation
 
